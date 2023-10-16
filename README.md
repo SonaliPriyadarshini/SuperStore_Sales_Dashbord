@@ -5,3 +5,10 @@ Here I analyse 2 years data of Superstore main objective of analysis is to conti
 
 
 ###### Data cleaning
+Detect Datatype
+
+Remove blank columns,empty rows
+
+Replace NAN values
+
+
